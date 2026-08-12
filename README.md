@@ -11,6 +11,11 @@
 - RGB Lamp
   
 
+## Shematic
+
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/aa9efab0-77fa-4a68-b018-148b16949086" />
+
+
 ## PCB
 
 - The PCB was designed using KiCad
