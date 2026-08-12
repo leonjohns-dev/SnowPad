@@ -1,5 +1,16 @@
 # SnowPad
 
+**SnowPad is a 3x4 macro pad made for the Stardance Hack Club challenge**
+
+
+### Features
+
+- 12 Switches
+- RGB Backlight
+- OLED Screen
+- RGB Lamp
+  
+
 ## PCB
 
 - The PCB was designed using KiCad
