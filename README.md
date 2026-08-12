@@ -12,9 +12,7 @@
   
 
 ## Shematic
-
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/aa9efab0-77fa-4a68-b018-148b16949086" />
-
+<img width="2245" height="1587" alt="hackpad" src="https://github.com/user-attachments/assets/52feb051-498b-4891-9864-ecad8b4967a6" />
 
 ## PCB
 
