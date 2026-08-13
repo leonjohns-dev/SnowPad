@@ -9,6 +9,7 @@
 - RGB Backlight
 - OLED Screen
 - RGB Lamp
+- Water Drink Reminder *Upcoming Feature*
   
 
 ## Shematic
