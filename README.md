@@ -67,6 +67,7 @@
 
 - Firmware took me a while to figure out😭
 - I first tried QMK, but it had no 4x3 layouts; I tried making my own layout, which failed
-- The current firmware is built on kmk which is pretty straightforward
+- The current firmware is built on kmk which is pretty straightforward.
+- Firmware was made with assistance from ChatGPT.
 
 
